@@ -1,14 +1,12 @@
-## smarkio_frontend_teste
-# Front-end REACT da aplicação web desenvolvida para o teste prático de programação da SMARKIO.
+# smarkio_frontend_teste
+### Front-end REACT da aplicação web desenvolvida para o teste prático de programação da SMARKIO.
 
 ## Screen Shot
 
 
 ## Instalação em ambiente local:
 
-# Requisitos:
-
-- Node and npm instalados globalmente
+É preciso ter Node e npm instalados globalmente
 
 Instalação:
 
